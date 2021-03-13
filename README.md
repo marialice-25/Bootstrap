@@ -4,7 +4,8 @@
   <img src="https://img.shields.io/static/v1?label=View&message=Bootstrap&color=7159c1&style=for-the-badge&logo=bootstrap"/>
   <p alignt = "center">Tela simples de HTML e CSS utilizando Bootstrap para estruturação responsiva de cabeçalho e caixas de texto.</p>
   <ul alignt = "center">
-    <li>Primeiro site com o uso </li> 
+    <li>Primeiro desenvolvimento de site com essa framework. </li>
+     <li> Ela apresenta uma grande facilidade no quesito de organização (table, box).</li> 
   </ul>
 </html>
 
